@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-06-23T09:53:19.033Z",
-  "updatedAtMs": 1782208399033,
+  "updatedAt": "2026-06-23T09:53:30.971Z",
+  "updatedAtMs": 1782208410971,
   "deviceId": "device_1782206991249_ap589i77l",
   "provider": "github",
   "domains": [
@@ -9,7 +9,8 @@
     "settings"
   ],
   "lastUploadedDomains": [
-    "records"
+    "records",
+    "settings"
   ],
   "files": {
     "records": [
