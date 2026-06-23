@@ -549,40 +549,168 @@
   "fileManagerTextSize": "sm",
   "customThemeColors": {
     "dark": {
-      "accent": null,
-      "accentForeground": null,
-      "background": null,
-      "border": null,
-      "card": null,
-      "cardForeground": null,
-      "foreground": null,
-      "muted": null,
-      "mutedForeground": null,
-      "primary": null,
-      "primaryForeground": null,
-      "secondary": null,
-      "secondaryForeground": null,
-      "shadow": null,
-      "third": null,
-      "thirdForeground": null
+      "accent": [
+        215,
+        16,
+        47
+      ],
+      "accentForeground": [
+        0,
+        0,
+        100
+      ],
+      "background": [
+        210,
+        40,
+        98
+      ],
+      "border": [
+        214,
+        32,
+        91
+      ],
+      "card": [
+        0,
+        0,
+        100
+      ],
+      "cardForeground": [
+        217,
+        33,
+        17
+      ],
+      "foreground": [
+        217,
+        33,
+        17
+      ],
+      "muted": [
+        210,
+        40,
+        96
+      ],
+      "mutedForeground": [
+        215,
+        16,
+        47
+      ],
+      "primary": [
+        215,
+        19,
+        35
+      ],
+      "primaryForeground": [
+        0,
+        0,
+        100
+      ],
+      "secondary": [
+        214,
+        32,
+        91
+      ],
+      "secondaryForeground": [
+        217,
+        33,
+        17
+      ],
+      "shadow": [
+        222,
+        47,
+        11
+      ],
+      "third": [
+        213,
+        27,
+        84
+      ],
+      "thirdForeground": [
+        215,
+        25,
+        27
+      ]
     },
     "light": {
-      "accent": null,
-      "accentForeground": null,
-      "background": null,
-      "border": null,
-      "card": null,
-      "cardForeground": null,
-      "foreground": null,
-      "muted": null,
-      "mutedForeground": null,
-      "primary": null,
-      "primaryForeground": null,
-      "secondary": null,
-      "secondaryForeground": null,
-      "shadow": null,
-      "third": null,
-      "thirdForeground": null
+      "accent": [
+        215,
+        16,
+        47
+      ],
+      "accentForeground": [
+        0,
+        0,
+        100
+      ],
+      "background": [
+        210,
+        40,
+        98
+      ],
+      "border": [
+        214,
+        32,
+        91
+      ],
+      "card": [
+        0,
+        0,
+        100
+      ],
+      "cardForeground": [
+        217,
+        33,
+        17
+      ],
+      "foreground": [
+        217,
+        33,
+        17
+      ],
+      "muted": [
+        210,
+        40,
+        96
+      ],
+      "mutedForeground": [
+        215,
+        16,
+        47
+      ],
+      "primary": [
+        215,
+        19,
+        35
+      ],
+      "primaryForeground": [
+        0,
+        0,
+        100
+      ],
+      "secondary": [
+        214,
+        32,
+        91
+      ],
+      "secondaryForeground": [
+        217,
+        33,
+        17
+      ],
+      "shadow": [
+        222,
+        47,
+        11
+      ],
+      "third": [
+        213,
+        27,
+        84
+      ],
+      "thirdForeground": [
+        215,
+        25,
+        27
+      ]
     }
   },
   "githubCustomSyncRepo": "",
@@ -591,7 +719,7 @@
   "currentPage": "/core/main",
   "currentTagId": 1,
   "autoSync": "5",
-  "lastSettingPage": "general",
+  "lastSettingPage": "template",
   "speechToTextMode": "auto",
   "gitlabInstanceType": "gitlab.com",
   "giteaUsername": "",
