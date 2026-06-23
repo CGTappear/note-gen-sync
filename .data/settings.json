@@ -55318,7 +55318,7 @@
   "leftSidebarTab": "notes",
   "speechToTextMode": "auto",
   "autoPullOnOpen": true,
-  "lastSettingPage": "rag",
+  "lastSettingPage": "ai",
   "previewTheme": "github",
   "gitlabUsername": "",
   "embeddingModel": "note-gen-embedding",
