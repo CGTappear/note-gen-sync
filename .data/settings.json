@@ -594,7 +594,7 @@
   "currentPage": "/core/main",
   "currentTagId": 1,
   "autoSync": "5",
-  "lastSettingPage": "general",
+  "lastSettingPage": "about",
   "speechToTextMode": "auto",
   "gitlabInstanceType": "gitlab.com",
   "giteaUsername": "",
@@ -681,7 +681,7 @@
             "content_type": "application/zip",
             "created_at": "2026-06-22T02:24:48Z",
             "digest": "sha256:f16650d63e6a3dca9e317b5737377710929c5df1c2bb2d552af493c2059582b2",
-            "download_count": 49,
+            "download_count": 50,
             "id": 454142976,
             "label": "",
             "name": "NoteGen_0.30.0_aarch64.dmg",
@@ -897,7 +897,7 @@
             "content_type": "application/zip",
             "created_at": "2026-06-22T02:31:52Z",
             "digest": "sha256:e99104e8739961982179d33641dec1265fd29c902dc9364c94db66641882fa94",
-            "download_count": 220,
+            "download_count": 223,
             "id": 454148225,
             "label": "",
             "name": "NoteGen_0.30.0_x64-setup.exe",
@@ -969,7 +969,7 @@
             "content_type": "application/zip",
             "created_at": "2026-06-22T02:22:30Z",
             "digest": "sha256:b9822a684b28d5cc58c2b4dc25e7cf3cf981866a7dfc5b515d423833fd8e9985",
-            "download_count": 7,
+            "download_count": 8,
             "id": 454141250,
             "label": "",
             "name": "NoteGen_0.30.0_x64.dmg",
@@ -1005,7 +1005,7 @@
             "content_type": "application/zip",
             "created_at": "2026-06-22T02:31:51Z",
             "digest": "sha256:62e874af5a3c219624f031570c3f596b6c6afcd2a5d442a582efd5ef9727c904",
-            "download_count": 84,
+            "download_count": 85,
             "id": 454148202,
             "label": "",
             "name": "NoteGen_0.30.0_x64_en-US.msi",
@@ -55472,7 +55472,7 @@
         "zipball_url": "https://api.github.com/repos/codexu/note-gen/zipball/app-v0.10.0"
       }
     ],
-    "updatedAt": 1782205072861
+    "updatedAt": 1782207083399
   },
   "markDescModel": "note-gen-chat",
   "textToSpeechMode": "auto",
