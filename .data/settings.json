@@ -18,7 +18,7 @@
       "title": "周报"
     }
   ],
-  "activeTabId": "1782350033565-q2nd4elak",
+  "activeTabId": "1782355154428-gsogq9hop",
   "enableImageRecognition": true,
   "githubCustomSyncRepo": "",
   "showEditorUndoRedo": true,
@@ -268,7 +268,7 @@
     }
   ],
   "codeTheme": "github",
-  "activeFilePath": "项目相关文件/睿思通/PCBA组件v1.6.PDF",
+  "activeFilePath": "Note-gen/硬件nmos管.md",
   "currentPromptId": "0",
   "condenseMaxLength": 100,
   "markDescModel": "note-gen-chat",
@@ -55147,6 +55147,10 @@
     ],
     "updatedAt": 1782207083399
   },
+  "lastSyncTimes": {
+    "Note-gen/图推Prompts.md": 1782355117634,
+    "Note-gen/硬件mos管.md": 1782355119985
+  },
   "customThemeColors": {
     "dark": {
       "accent": [
@@ -55318,7 +55322,7 @@
   "leftSidebarTab": "files",
   "speechToTextMode": "auto",
   "autoPullOnOpen": true,
-  "lastSettingPage": "file",
+  "lastSettingPage": "mcp",
   "previewTheme": "github",
   "gitlabUsername": "",
   "embeddingModel": "note-gen-embedding",
@@ -55328,11 +55332,18 @@
   "githubUsername": "CGTappear",
   "openTabs": [
     {
-      "id": "1782350033565-q2nd4elak",
+      "id": "1782355113060-qcm86hlr3",
       "isFolder": false,
       "kind": "file",
-      "name": "PCBA组件v1.6.PDF",
-      "path": "项目相关文件/睿思通/PCBA组件v1.6.PDF"
+      "name": "图推Prompts.md",
+      "path": "Note-gen/图推Prompts.md"
+    },
+    {
+      "id": "1782355154428-gsogq9hop",
+      "isFolder": false,
+      "kind": "file",
+      "name": "硬件nmos管.md",
+      "path": "Note-gen/硬件nmos管.md"
     }
   ],
   "globalSearchFilter": "all",
@@ -55474,15 +55485,9 @@
   "gitlabAutoSync": "disabled",
   "giteeCustomSyncRepo": "",
   "collapsibleList": [
-    "项目相关文件/睿思通",
-    "项目相关文件/睿思通/功能规范",
-    "项目相关文件",
-    "项目相关文件/誉球",
-    "系统",
-    "学习文档/Vector_Driver_Setup——驱动",
-    "学习文档/Vector_Driver_Setup——驱动/Common",
-    "学习文档/YQ01_CANoe_Project_V01_20260124",
-    "系统/LIN工具"
+    "Obsidian Vault",
+    "Note-gen",
+    "Obsidian Vault/图片"
   ],
   "recordViewMode": "list",
   "giteaCustomUrl": "",
