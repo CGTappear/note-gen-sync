@@ -18,7 +18,7 @@
       "title": "周报"
     }
   ],
-  "activeTabId": "1782358655621-adv6ay0wq",
+  "activeTabId": "1782370538674-q6pxxppbi",
   "enableImageRecognition": true,
   "githubCustomSyncRepo": "",
   "showEditorUndoRedo": true,
@@ -55324,7 +55324,7 @@
   "leftSidebarTab": "files",
   "speechToTextMode": "auto",
   "autoPullOnOpen": true,
-  "lastSettingPage": "file",
+  "lastSettingPage": "dev",
   "previewTheme": "github",
   "gitlabUsername": "",
   "embeddingModel": "note-gen-embedding",
@@ -55334,21 +55334,7 @@
   "githubUsername": "CGTappear",
   "openTabs": [
     {
-      "id": "1782356006803-4dn6x0nub",
-      "isFolder": false,
-      "kind": "file",
-      "name": "mos管.md",
-      "path": "mos管.md"
-    },
-    {
-      "id": "1782356050929-cl2aliwml",
-      "isFolder": false,
-      "kind": "file",
-      "name": "PLM操作手册.md",
-      "path": "PLM操作手册.md"
-    },
-    {
-      "id": "1782358655621-adv6ay0wq",
+      "id": "1782370538674-q6pxxppbi",
       "isFolder": false,
       "kind": "file",
       "name": "uv.md",
@@ -55493,10 +55479,9 @@
   },
   "gitlabAutoSync": "disabled",
   "giteeCustomSyncRepo": "",
-  "collapsibleList": [
-    "Python进阶语法"
-  ],
+  "collapsibleList": [],
   "recordViewMode": "list",
+  "showCloudFiles": true,
   "giteaCustomUrl": "",
   "autoUpdate": true,
   "giteaInstanceType": "gitea.com",
