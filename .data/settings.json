@@ -55324,7 +55324,7 @@
   "leftSidebarTab": "files",
   "speechToTextMode": "auto",
   "autoPullOnOpen": true,
-  "lastSettingPage": "sync",
+  "lastSettingPage": "dev",
   "previewTheme": "github",
   "gitlabUsername": "",
   "embeddingModel": "note-gen-embedding",
