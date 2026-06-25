@@ -18,7 +18,7 @@
       "title": "周报"
     }
   ],
-  "activeTabId": "",
+  "activeTabId": "1782350033565-q2nd4elak",
   "enableImageRecognition": true,
   "githubCustomSyncRepo": "",
   "showEditorUndoRedo": true,
@@ -268,7 +268,7 @@
     }
   ],
   "codeTheme": "github",
-  "activeFilePath": "",
+  "activeFilePath": "项目相关文件/睿思通/PCBA组件v1.6.PDF",
   "currentPromptId": "0",
   "condenseMaxLength": 100,
   "markDescModel": "note-gen-chat",
@@ -55315,10 +55315,10 @@
   },
   "sttModel": "",
   "giteaUsername": "",
-  "leftSidebarTab": "notes",
+  "leftSidebarTab": "files",
   "speechToTextMode": "auto",
   "autoPullOnOpen": true,
-  "lastSettingPage": "ai",
+  "lastSettingPage": "file",
   "previewTheme": "github",
   "gitlabUsername": "",
   "embeddingModel": "note-gen-embedding",
@@ -55326,7 +55326,15 @@
   "leftSidebarVisible": true,
   "giteaAutoSync": "disabled",
   "githubUsername": "CGTappear",
-  "openTabs": [],
+  "openTabs": [
+    {
+      "id": "1782350033565-q2nd4elak",
+      "isFolder": false,
+      "kind": "file",
+      "name": "PCBA组件v1.6.PDF",
+      "path": "项目相关文件/睿思通/PCBA组件v1.6.PDF"
+    }
+  ],
   "globalSearchFilter": "all",
   "inspirationModel": "note-gen-chat",
   "lastOrganizeTemplateId": "0",
@@ -55468,16 +55476,13 @@
   "collapsibleList": [
     "项目相关文件/睿思通",
     "项目相关文件/睿思通/功能规范",
-    "公司文档/报销",
     "项目相关文件",
     "项目相关文件/誉球",
     "系统",
     "学习文档/Vector_Driver_Setup——驱动",
     "学习文档/Vector_Driver_Setup——驱动/Common",
-    "学习文档/CANoe仿真模拟学习",
-    "公司文档",
-    "学习文档",
-    "学习文档/YQ01_CANoe_Project_V01_20260124"
+    "学习文档/YQ01_CANoe_Project_V01_20260124",
+    "系统/LIN工具"
   ],
   "recordViewMode": "list",
   "giteaCustomUrl": "",
