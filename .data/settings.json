@@ -18,7 +18,7 @@
       "title": "周报"
     }
   ],
-  "activeTabId": "1782355113060-qcm86hlr3",
+  "activeTabId": "1782358655621-adv6ay0wq",
   "enableImageRecognition": true,
   "githubCustomSyncRepo": "",
   "showEditorUndoRedo": true,
@@ -67,7 +67,7 @@
   "giteaCustomSyncRepo": "",
   "recordTextSize": "sm",
   "rerankingModel": "",
-  "primaryModel": "note-gen-chat",
+  "primaryModel": "note-gen-limited-deepseek-ai/DeepSeek-V3.2",
   "keepLatestCount": 4,
   "editorShortcuts": [
     {
@@ -268,7 +268,7 @@
     }
   ],
   "codeTheme": "github",
-  "activeFilePath": "",
+  "activeFilePath": "uv.md",
   "currentPromptId": "0",
   "condenseMaxLength": 100,
   "markDescModel": "note-gen-chat",
@@ -55334,18 +55334,25 @@
   "githubUsername": "CGTappear",
   "openTabs": [
     {
-      "id": "1782355113060-qcm86hlr3",
+      "id": "1782356006803-4dn6x0nub",
       "isFolder": false,
       "kind": "file",
-      "name": "图推Prompts.md",
-      "path": "Note-gen/图推Prompts.md"
+      "name": "mos管.md",
+      "path": "mos管.md"
     },
     {
-      "id": "1782355656750-rb2ljxobj",
+      "id": "1782356050929-cl2aliwml",
       "isFolder": false,
       "kind": "file",
-      "name": "欢迎.md",
-      "path": "Note-gen/欢迎.md"
+      "name": "PLM操作手册.md",
+      "path": "PLM操作手册.md"
+    },
+    {
+      "id": "1782358655621-adv6ay0wq",
+      "isFolder": false,
+      "kind": "file",
+      "name": "uv.md",
+      "path": "uv.md"
     }
   ],
   "globalSearchFilter": "all",
@@ -55479,14 +55486,16 @@
   "desktopOnboardingProgress": {
     "dismissed": true,
     "steps": {
-      "ai-polish": false,
+      "ai-polish": true,
       "create-record": false,
       "organize-note": false
     }
   },
   "gitlabAutoSync": "disabled",
   "giteeCustomSyncRepo": "",
-  "collapsibleList": [],
+  "collapsibleList": [
+    "Python进阶语法"
+  ],
   "recordViewMode": "list",
   "giteaCustomUrl": "",
   "autoUpdate": true,
@@ -55620,5 +55629,6 @@
       "value": "CommandOrControl+Shift+T"
     }
   ],
+  "isRagEnabled": false,
   "imageMethodModel": "note-gen-chat"
 }
