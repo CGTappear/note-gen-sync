@@ -18,7 +18,7 @@
       "title": "周报"
     }
   ],
-  "activeTabId": "1782370538674-q6pxxppbi",
+  "activeTabId": "1782371217774-ddhkz3eew",
   "enableImageRecognition": true,
   "githubCustomSyncRepo": "",
   "showEditorUndoRedo": true,
@@ -268,7 +268,7 @@
     }
   ],
   "codeTheme": "github",
-  "activeFilePath": "uv.md",
+  "activeFilePath": "图推Prompts.md",
   "currentPromptId": "0",
   "condenseMaxLength": 100,
   "markDescModel": "note-gen-chat",
@@ -55324,7 +55324,7 @@
   "leftSidebarTab": "files",
   "speechToTextMode": "auto",
   "autoPullOnOpen": true,
-  "lastSettingPage": "dev",
+  "lastSettingPage": "sync",
   "previewTheme": "github",
   "gitlabUsername": "",
   "embeddingModel": "note-gen-embedding",
@@ -55339,6 +55339,13 @@
       "kind": "file",
       "name": "uv.md",
       "path": "uv.md"
+    },
+    {
+      "id": "1782371217774-ddhkz3eew",
+      "isFolder": false,
+      "kind": "file",
+      "name": "图推Prompts.md",
+      "path": "图推Prompts.md"
     }
   ],
   "globalSearchFilter": "all",
@@ -55485,7 +55492,7 @@
   "giteaCustomUrl": "",
   "autoUpdate": true,
   "giteaInstanceType": "gitea.com",
-  "useImageRepo": false,
+  "useImageRepo": true,
   "gitlabCustomUrl": "",
   "gitlabInstanceType": "gitlab.com",
   "autoDataSyncInitialChoice:github": true,
