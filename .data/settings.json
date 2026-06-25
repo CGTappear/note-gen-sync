@@ -55322,7 +55322,7 @@
   "leftSidebarTab": "files",
   "speechToTextMode": "auto",
   "autoPullOnOpen": true,
-  "lastSettingPage": "audio",
+  "lastSettingPage": "mcp",
   "previewTheme": "github",
   "gitlabUsername": "",
   "embeddingModel": "note-gen-embedding",
