@@ -18,7 +18,7 @@
       "title": "周报"
     }
   ],
-  "activeTabId": "1782355621458-p38uhj22f",
+  "activeTabId": "1782355113060-qcm86hlr3",
   "enableImageRecognition": true,
   "githubCustomSyncRepo": "",
   "showEditorUndoRedo": true,
@@ -268,7 +268,7 @@
     }
   ],
   "codeTheme": "github",
-  "activeFilePath": "Note-gen/硬件mos管.md",
+  "activeFilePath": "",
   "currentPromptId": "0",
   "condenseMaxLength": 100,
   "markDescModel": "note-gen-chat",
@@ -55149,6 +55149,7 @@
   },
   "lastSyncTimes": {
     "Note-gen/图推Prompts.md": 1782355117634,
+    "Note-gen/欢迎.md": 1782355649857,
     "Note-gen/硬件mos管.md": 1782355119985,
     "mos管.md": 1782355562018
   },
@@ -55323,7 +55324,7 @@
   "leftSidebarTab": "files",
   "speechToTextMode": "auto",
   "autoPullOnOpen": true,
-  "lastSettingPage": "sync",
+  "lastSettingPage": "file",
   "previewTheme": "github",
   "gitlabUsername": "",
   "embeddingModel": "note-gen-embedding",
@@ -55340,25 +55341,11 @@
       "path": "Note-gen/图推Prompts.md"
     },
     {
-      "id": "1782355154428-gsogq9hop",
+      "id": "1782355656750-rb2ljxobj",
       "isFolder": false,
       "kind": "file",
-      "name": "硬件nmos管.md",
-      "path": "Note-gen/硬件nmos管.md"
-    },
-    {
-      "id": "1782355441342-79od4wdlo",
-      "isFolder": false,
-      "kind": "file",
-      "name": "mos管.md",
-      "path": "mos管.md"
-    },
-    {
-      "id": "1782355621458-p38uhj22f",
-      "isFolder": false,
-      "kind": "file",
-      "name": "硬件mos管.md",
-      "path": "Note-gen/硬件mos管.md"
+      "name": "欢迎.md",
+      "path": "Note-gen/欢迎.md"
     }
   ],
   "globalSearchFilter": "all",
@@ -55499,11 +55486,7 @@
   },
   "gitlabAutoSync": "disabled",
   "giteeCustomSyncRepo": "",
-  "collapsibleList": [
-    "Obsidian Vault",
-    "Obsidian Vault/图片",
-    "Note-gen"
-  ],
+  "collapsibleList": [],
   "recordViewMode": "list",
   "giteaCustomUrl": "",
   "autoUpdate": true,
