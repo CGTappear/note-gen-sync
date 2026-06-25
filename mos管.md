@@ -7,7 +7,7 @@ MOS管有两种：**一个是PMOS管，一个是NMOS管**；PMOS管就是positiv
 
 ### N沟道还是P沟道与寄生二极管方向如何判定
 
-&nbsp;
+![](https://i-blog.csdnimg.cn/blog_migrate/3607dd3d6f54aeabc119b6fb11e71c09.png#pic_center)![image.png](assets/b5a0baf9-7b55-43da-895e-72e90f6edbd4.png)
 
 N沟道MOS还是P沟道MOS：  
 **箭头指向G极的是N沟道**  
